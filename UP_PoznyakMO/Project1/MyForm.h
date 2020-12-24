@@ -203,7 +203,7 @@ namespace Project1 {
 			MessageBox::Show("неверные фамилия или номер группы", "ошибка!!!", MessageBoxButtons::OK);
 		}
 
-		/* отчистка файлов для векторов */
+		/* отчистка файлов */
 
 		ofstream f("vektora.txt");
 		f.close();
