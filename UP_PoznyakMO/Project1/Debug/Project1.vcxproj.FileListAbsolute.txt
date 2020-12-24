@@ -1,0 +1,11 @@
+D:\other\бонч\сиспрогр практос\Project1\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+D:\other\бонч\сиспрогр практос\Project1\Project1\Debug\Project1.MyForm.resources
+D:\other\бонч\сиспрогр практос\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+D:\other\бонч\сиспрогр практос\Project1 — копия\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+D:\other\бонч\сиспрогр практос\Project1 — копия\Project1\Debug\Project1.MyForm.resources
+D:\other\бонч\сиспрогр практос\Project1 — копия\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+D:\other\бонч\сиспрогр практос\Project1 — копия\Project1\Debug\Project1.MyForm2.resources
+D:\other\SPbCT_PoznyakMO\UP_PoznyakMO\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+D:\other\SPbCT_PoznyakMO\UP_PoznyakMO\Project1\Debug\Project1.MyForm.resources
+D:\other\SPbCT_PoznyakMO\UP_PoznyakMO\Project1\Debug\Project1.MyForm2.resources
+D:\other\SPbCT_PoznyakMO\UP_PoznyakMO\Project1\Debug\Project1.vcxproj.GenerateResource.cache
